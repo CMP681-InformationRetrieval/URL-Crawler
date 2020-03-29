@@ -1,2 +1,1 @@
-# firatcoskundalgic-gmail.com
-URL Crawling Toolkit
+# URL Crawling Toolkit
